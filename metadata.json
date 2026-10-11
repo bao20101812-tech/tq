@@ -1,0 +1,6 @@
+{
+  "name": "Chat 4.0 - Trợ lý Trí tuệ Nhân tạo Thông minh",
+  "description": "Chatbot thông minh thế hệ 4.0 hỗ trợ đa ngôn ngữ, giải đáp mọi câu hỏi với công nghệ trí tuệ nhân tạo tiên tiến và giao diện tối giản hiện đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
